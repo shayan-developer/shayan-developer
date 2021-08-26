@@ -7,7 +7,6 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play guitar
 
-
 <br />
 
 ### Connect with me:
@@ -35,7 +34,6 @@
 
 
 <br />
-<br />
 
 ---
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=shayan-developer&count_private=true&show_icons=true&include_all_commits=true&theme=dracula)
@@ -44,4 +42,4 @@
 [instagram]:https://www.instagram.com/shayan.shadanpour
 [linkedin]: https://www.linkedin.com/in/shayan-shadanpoor-912aa720b
 
-# shayan-developer
+
