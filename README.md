@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals:MERN stack developer
 - ⚡ Fun fact: I love to play guitar
 
 <br />
@@ -29,6 +29,8 @@
 ![NextJs](https://img.shields.io/badge/-Next%20JS-414141?style=for-the-badge&color=3C005A)
 ![NodeJs](https://img.shields.io/badge/-Node%20JS-414141?style=for-the-badge&color=3C005A)
 ![ExpressJs](https://img.shields.io/badge/-Express%20JS-414141?style=for-the-badge&color=3C005A)
+![MongoDB](https://img.shields.io/badge/-MongoDB-414141?style=for-the-badge&color=3C005A)
+![PWA](https://img.shields.io/badge/-PWA-414141?style=for-the-badge&color=3C005A)
 ![Python](https://img.shields.io/badge/-Python-414141?style=for-the-badge&logo=python&color=3C005A)
 ![Git](https://img.shields.io/badge/-Git-414141?style=for-the-badge&logo=git&color=3C005A)
 ![GitHub](https://img.shields.io/badge/-GitHub-414141?style=for-the-badge&logo=github&color=3C005A)
