@@ -1,18 +1,36 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+# 👋 Hi, I'm Shayan
 
-###
+** Frontend Developer | Exploring Backend & DevOps | Cybersecurity Enthusiast**
 
-<h2 align="left">About me</h2>
+---
 
-###
+### 🌟 About Me
+I’m a passionate **Frontend Developer** with a strong foundation in building scalable, user-friendly web applications. Over the years, I’ve honed my skills in frontend technologies and have successfully delivered high-quality projects. Currently, I’m expanding my expertise into **Backend Development** and **DevOps**, aiming to become a well-rounded full-stack engineer.
 
-<p align="left">My name is shayan and I'm a web developer</p>
+In addition to my development journey, I have a keen interest in **Cybersecurity**. Understanding the importance of secure coding practices and protecting digital assets has become a personal and professional goal for me.
 
-###
+---
 
-<p align="left">✨ Creating bugs since 2020.<br>📚 I'm currently learning Backend and DevOps technologies<br>🎯 Goals: Build my own app and enhance my backend and DevOps skills</p>
+### 💻 My Journey So Far
+- ✨ **Creating impactful solutions (and occasionally bugs 😅) since 2020.**
+- 🏆 Built and contributed to multiple web applications, focusing on performance, accessibility, and user experience.
+- 🔧 Proficient in modern frontend frameworks like React, Angular, or Vue.js (customize based on your actual tech stack).
 
-###
+---
+
+### 📚 What I’m Learning Now
+- **Backend Development**: Mastering server-side technologies such as Node.js.
+- **DevOps & Cloud**: Exploring CI/CD pipelines, containerization (Docker), Kubernetes, and cloud platforms like AWS, Azure, or GCP.
+- **Cybersecurity**: Diving into ethical hacking, network security, cryptography, and secure application development.
+
+---
+
+### 🎯 My Goals
+1. **Build My Own App**: Develop a fully functional, production-ready application that integrates both frontend and backend technologies.
+2. **Enhance Backend & DevOps Skills**: Gain hands-on experience in designing robust APIs, managing infrastructure, and automating workflows.
+3. **Contribute to Cybersecurity**: Learn how to identify vulnerabilities, implement security best practices, and potentially contribute to open-source cybersecurity tools.
+
+---
 
 <h2 align="left">I code with</h2>
 
